@@ -1,0 +1,1 @@
+TC-8: Customer order logs fetched correctly. Passed.
