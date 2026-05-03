@@ -1,0 +1,1 @@
+TC-4: Customer account registration logic validated. Passed.
