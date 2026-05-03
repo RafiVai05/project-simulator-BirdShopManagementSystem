@@ -1,0 +1,1 @@
+TC-1: Login tested successfully on macOS and Windows. All credentials verified.
