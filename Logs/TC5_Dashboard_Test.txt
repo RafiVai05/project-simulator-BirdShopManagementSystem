@@ -1,0 +1,1 @@
+TC-5: Admin Dashboard statistics load perfectly. Passed.
